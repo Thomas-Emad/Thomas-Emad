@@ -13,17 +13,6 @@
 
 - 💬 Ask me about **Anything For Backend PHP**
 
-<h3 align="center">My Project</h3>
-1. [E-commerce](https://github.com/Thomas-Emad/Ecommerce).
-2. [BlogTomey](https://github.com/Thomas-Emad/BlogTomey).
-- [X] [TomTube](https://github.com/Thomas-Emad/TomTube).
-- [X] [ToDo Tasks](https://github.com/Thomas-Emad/ToDo).
-- [X] [Contact Form](https://github.com/Thomas-Emad/contact-form).
-- [X] [Sign Page](https://github.com/Thomas-Emad/Sign-Page).
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thomas-emad-71bb681ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thomas-emad-71bb681ba" height="30" width="40" /></a>
