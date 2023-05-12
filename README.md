@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomas-emad&label=Profile%20views&color=0e75b6&style=flat" alt="thomas-emad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomas-emad" alt="thomas-emad" /></a> </p>
-
 - 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thomas-Emad/](https://github.com/Thomas-Emad/)
