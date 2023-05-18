@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Thomas-Emad/](https://github.com/Thomas-Emad/)
+- 👨‍💻 All of my projects are available at [https://github.com/Thomas-Emad/](Github)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/thomas-emad-71bb681ba](https://www.linkedin.com/in/thomas-emad-71bb681ba)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/thomas-emad-71bb681ba](LinkedIn)
 
 - 💬 Ask me about **Anything For Backend PHP**
 
