@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Thomas-Emad/)
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/thomas-emad-71bb681ba)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/thomas-emad)
 
 - 💬 Ask me about **Anything For Backend PHP**
 
@@ -24,8 +24,3 @@
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomas-emad&show_icons=true&locale=en&layout=compact" alt="thomas-emad" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomas-emad&show_icons=true&locale=en" alt="thomas-emad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomas-emad&" alt="thomas-emad" /></p>
